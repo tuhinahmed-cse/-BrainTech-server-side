@@ -2,44 +2,85 @@
     {
       "id": "0282e0e58a5c404fbd15261f11c2ab6a",
       "category_id": "01",
+      "lecture": 53,
+      "hour": 130,
       "rating": { "number": 4.5},
       "price": 20,
       "title": "Basic Fundamentals for Software Engineering",
       "author": {
         "name": "Rahid Hasan",
-        "start_date": "2023-01-01 17:27:34",
+        "start_date": "2023-01-01",
         "img": "https://scribemedia.com/wp-content/uploads/2015/09/eric-ries.png"
       },
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41OiCBwqgsL.jpg",
+      "image_url": "https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg",
       "details": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users. we are design to start this course who what to develop there career in this fields. if you interested then please buy this course."
     },
     {
       "id": "f69a695f037cd9484cecaea37ca71011",
       "category_id": "02",
-      "rating": { "number": 4.5},
-      "price": 20,
-      "title": "Basic Fundamentals for Software Engineering",
+      "lecture": 65,
+      "hour": 150,
+      
+      "rating": { "number": 4.7},
+      "price": 30,
+      "title": "HTML, CSS, and Javascript for Web Developers",
       "author": {
-        "name": "Rahid Hasan",
-        "start_date": "2023-01-01 17:27:34",
-        "img": "https://scribemedia.com/wp-content/uploads/2015/09/eric-ries.png"
+        "name": "Nafiz Rahman",
+        "start_date": "2023-03-10",
+        "img": "https://res.cloudinary.com/scribe-publications/image/upload/c_fill,w_700,h_700,g_face/v1461222145/newauthors/ALEMAN-Andr.jpg"
       },
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41OiCBwqgsL.jpg",
-      "details": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users. we are design to start this course who what to develop there career in this fields. if you interested then please buy this course."
+      "image_url": "https://w0.peakpx.com/wallpaper/951/915/HD-wallpaper-javascript-fiery-logo-programming-language-orange-stone-background-creative-javascript-logo-programming-language-signs-javascript.jpg",
+      "details": "JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities. Recently Many developers Use this language to develop Website. Here is our some mentors who tech you all the fundamentals of this language"
     },
     {
       "id": "11468ed61aee84de492a8b04158a22f9",
       "category_id": "03",
-      "rating": { "number": 4.5},
-      "price": 20,
-      "title": "Basic Fundamentals for Software Engineering",
+      "lecture": 40,
+      "hour": 110,
+      "rating": { "number": 4.0},
+      "price": 15,
+      "title": "Introducing to Programming with WordPress",
       "author": {
-        "name": "Rahid Hasan",
-        "start_date": "2023-01-01 17:27:34",
-        "img": "https://scribemedia.com/wp-content/uploads/2015/09/eric-ries.png"
+        "name": "Yeasin Biplob",
+        "start_date": "2023-01-04 ",
+        "img": "https://i2-prod.somersetlive.co.uk/incoming/article554285.ece/ALTERNATES/s615b/brianclegg.jpg"
       },
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41OiCBwqgsL.jpg",
-      "details": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users. we are design to start this course who what to develop there career in this fields. if you interested then please buy this course."
+      "image_url": "https://wpsitehelpers.com/wp-content/uploads/2016/12/wordpress.jpg",
+      "details": "WordPress is free web software you can use to create beautiful websites, blogs, or apps. If you want to learn WordPress development, you're in the right place!We've built a comprehensive guide to help you learn WordPress development online, whether you're just getting started designing and building your first theme, or you want to explore more advanced topics such as creating plugins or using the WordPress REST API.If you prefer to watch a series of videos that take you through similar topics, try our WordPress tutorial "
+    },
+
+    {
+      "id": "11468ed63aee84de492a8b04158a22h9",
+      "category_id": "04",
+      "lecture": 47,
+      "hour": 125,
+      "rating": { "number": 4.2},
+      "price": 18,
+      "title": "Enhancing Adobe Photoshop CC 2022 Skills",
+      "author": {
+        "name": "Asif Ali",
+        "start_date": "2023-06-07 ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkePmGlda6e1tPvSnqS5XYV1lPG9Nv1qNJGfpZI9QGGJMd-HgbT3yeIhmRTG-h0sDUCjM&usqp=CAU"
+      },
+      "image_url": "https://d501.epimg.net/cincodias/imagenes/2019/11/04/lifestyle/1572859318_968252_1572859375_noticia_normal.jpg",
+      "details": "Photoshop tutorials are there to help you turbocharge your skills when using the industry-standard image editing software. With the vast feature-set, beginners and professionals alike will have something new to learn about Adobe's editing program. There are so many tools and features to learn, not to mention the host of tricks and shortcuts designed to save time and improve your workflow. So whether you are using the software for creative work or play, there's no limit to what it can do.The beginners' section focuses on Photoshop tutorials that introduce key tools and essential skills. The intermediate tutorials aim to build on that knowledge with more features, while the advanced tutorials include tips on illustration, master grids, and how to alter photos like a pro"
+    },
+
+    {
+      "id": "19468edr3aee74de452a8b04158a22q9",
+      "category_id": "05",
+      "lecture": 67,
+      "hour": 145,
+      "rating": { "number": 4.6},
+      "price": 28,
+      "title": "Python for Web Developers",
+      "author": {
+        "name": "Naim Mahmud",
+        "start_date": "2023-01-07 ",
+        "img": "https://miro.medium.com/max/1000/0*5bjkLBf1VvAiMwhp"
+      },
+      "image_url": "https://w0.peakpx.com/wallpaper/442/723/HD-wallpaper-python-fiery-logo-programming-language-orange-stone-background-creative-python-logo-programming-language-signs-python-thumbnail.jpg",
+      "details": "Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library."
     }
     
   ]
