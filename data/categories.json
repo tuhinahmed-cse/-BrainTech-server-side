@@ -1,27 +1,27 @@
 [
     {
       "id": "01",
-      "name": "Basic Fundamentals for Software Engineering"
+      "name": "Software Engineering"
     },
     {
       "id": "02",
-      "name": "HTML, CSS, and Javascript for Web Developers"
+      "name": "Javascript"
     },
     {
       "id": "03",
-      "name": "Introducing to Programming with WordPress"
+      "name": "WordPress "
     },
     {
       "id": "04",
-      "name": "Enhancing Adobe Photoshop CC 2020 Skills"
+      "name": "Adobe Photoshop"
     },
     {
       "id": "05",
-      "name": "Python for Web Developers"
+      "name": "Python"
     },
     {
       "id": "06",
-      "name": "AI and Machine Learning for Coders"
+      "name": "AI and Machine Learning"
     }
   
   ]
