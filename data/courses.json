@@ -81,6 +81,24 @@
       },
       "image_url": "https://w0.peakpx.com/wallpaper/442/723/HD-wallpaper-python-fiery-logo-programming-language-orange-stone-background-creative-python-logo-programming-language-signs-python-thumbnail.jpg",
       "details": "Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library."
+    },
+    {
+      "id": "14468edr5yje74de452a8b07158a22q9",
+      "category_id": "06",
+      "lecture": 87,
+      "hour": 165,
+      "rating": { "number": 4.8},
+      "price": 38,
+      "title": "AI and Machine Learning for Coders",
+      "author": {
+        "name": "Monir Rahman",
+        "start_date": "2023-05-08 ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlJSCD1s5qaQWipHnGie-E0Jsk-i3qbBFEQAvvtUD5S-hBTnFuLn8rQJIKJrHy6M3l6LM&usqp=CAU"
+      },
+      "image_url": "https://inteng-storage.s3.amazonaws.com/img/iea/o2Gza7XgOp/sizes/ai-machine-learning-free-courses_resize_md.jpg",
+      "details": "To become an expert in machine learning, you first need a strong foundation in four learning areas : coding, math, ML theory, and how to build your own ML project from start to finish.When beginning your educational path, it's important to first understand how to learn ML. We've broken the learning process into four areas of knowledge, with each area providing a foundational piece of the ML puzzle. To help you on your path, we've identified books, videos, and online courses that will uplevel your abilities, and prepare you to use ML for your projects. Start with our guided curriculums designed to increase your knowledge, or choose your own path by exploring our resource library."
     }
+
+    
     
   ]
