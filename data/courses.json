@@ -1,0 +1,45 @@
+[
+    {
+      "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5},
+      "price": 20,
+      "title": "Basic Fundamentals for Software Engineering",
+      "author": {
+        "name": "Rahid Hasan",
+        "start_date": "2023-01-01 17:27:34",
+        "img": "https://scribemedia.com/wp-content/uploads/2015/09/eric-ries.png"
+      },
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41OiCBwqgsL.jpg",
+      "details": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users. we are design to start this course who what to develop there career in this fields. if you interested then please buy this course."
+    },
+    {
+      "id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "02",
+      "rating": { "number": 4.5},
+      "price": 20,
+      "title": "Basic Fundamentals for Software Engineering",
+      "author": {
+        "name": "Rahid Hasan",
+        "start_date": "2023-01-01 17:27:34",
+        "img": "https://scribemedia.com/wp-content/uploads/2015/09/eric-ries.png"
+      },
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41OiCBwqgsL.jpg",
+      "details": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users. we are design to start this course who what to develop there career in this fields. if you interested then please buy this course."
+    },
+    {
+      "id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "03",
+      "rating": { "number": 4.5},
+      "price": 20,
+      "title": "Basic Fundamentals for Software Engineering",
+      "author": {
+        "name": "Rahid Hasan",
+        "start_date": "2023-01-01 17:27:34",
+        "img": "https://scribemedia.com/wp-content/uploads/2015/09/eric-ries.png"
+      },
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41OiCBwqgsL.jpg",
+      "details": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users. we are design to start this course who what to develop there career in this fields. if you interested then please buy this course."
+    }
+    
+  ]
