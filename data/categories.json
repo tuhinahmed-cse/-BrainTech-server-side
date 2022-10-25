@@ -1,34 +1,27 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Basic Fundamentals for Software Engineering"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "HTML, CSS, and Javascript for Web Developers"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Introducing to Programming with WordPress"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Enhancing Adobe Photoshop CC 2020 Skills"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Python for Web Developers"
     },
     {
       "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
-    },
-    {
-      "id": "08",
-      "name": "All News"
+      "name": "AI and Machine Learning for Coders"
     }
+  
   ]
